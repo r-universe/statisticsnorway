@@ -1,0 +1,30 @@
+[
+  {
+    "package": "CalibrateSSB",
+    "oncran": true
+  },
+  {
+    "package": "easySdcTable",
+    "oncran": true
+  },
+  {
+    "package": "GaussSuppression",
+    "oncran": true
+  },
+  {
+    "package": "klassR",
+    "oncran": true
+  },
+  {
+    "package": "PxWebApiData",
+    "oncran": true
+  },
+  {
+    "package": "SmallCountRounding",
+    "oncran": true
+  },
+  {
+    "package": "SSBtools",
+    "oncran": true
+  }
+]

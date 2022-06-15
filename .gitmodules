@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CalibrateSSB"]
+	path = CalibrateSSB
+	url = https://github.com/statisticsnorway/calibratessb
+	shallow = true
+	registered = true
+[submodule "easySdcTable"]
+	path = easySdcTable
+	url = https://github.com/statisticsnorway/easysdctable
+	shallow = true
+	registered = true
+[submodule "GaussSuppression"]
+	path = GaussSuppression
+	url = https://github.com/statisticsnorway/gausssuppression
+	shallow = true
+	registered = true
+[submodule "klassR"]
+	path = klassR
+	url = https://github.com/statisticsnorway/klassr
+	shallow = true
+	registered = true
+[submodule "PxWebApiData"]
+	path = PxWebApiData
+	url = https://github.com/statisticsnorway/pxwebapidata
+	shallow = true
+	registered = true
+[submodule "SmallCountRounding"]
+	path = SmallCountRounding
+	url = https://github.com/statisticsnorway/smallcountrounding
+	shallow = true
+	registered = true
+[submodule "SSBtools"]
+	path = SSBtools
+	url = https://github.com/statisticsnorway/ssbtools
+	shallow = true
+	registered = true
