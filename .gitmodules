@@ -8,6 +8,11 @@
 	url = https://github.com/statisticsnorway/calibratessb
 	shallow = true
 	registered = true
+[submodule "easySdcTable"]
+	path = easySdcTable
+	url = https://github.com/statisticsnorway/easysdctable
+	shallow = true
+	registered = true
 [submodule "GaussSuppression"]
 	path = GaussSuppression
 	url = https://github.com/statisticsnorway/gausssuppression
