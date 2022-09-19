@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "easySdcTable",
-    "oncran": true
-  },
-  {
     "package": "GaussSuppression",
     "oncran": true
   },
