@@ -18,6 +18,11 @@
 	url = https://github.com/statisticsnorway/gausssuppression
 	shallow = true
 	registered = true
+[submodule "GISSB"]
+	path = GISSB
+	url = https://github.com/statisticsnorway/gissb
+	shallow = true
+	registered = true
 [submodule "klassR"]
 	path = klassR
 	url = https://github.com/statisticsnorway/klassr

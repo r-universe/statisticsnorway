@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "GISSB",
+    "oncran": true
+  },
+  {
     "package": "klassR",
     "oncran": true
   },
