@@ -1,14 +1,10 @@
 [
   {
-    "package": "klassR",
-    "oncran": true
-  },
-  {
-    "package": "GISSB",
-    "oncran": true
-  },
-  {
     "package": "CalibrateSSB",
+    "oncran": true
+  },
+  {
+    "package": "easySdcTable",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "SSBtools",
+    "package": "GISSB",
+    "oncran": true
+  },
+  {
+    "package": "klassR",
     "oncran": true
   },
   {
@@ -28,7 +28,7 @@
     "oncran": true
   },
   {
-    "package": "easySdcTable",
+    "package": "SSBtools",
     "oncran": true
   }
 ]
