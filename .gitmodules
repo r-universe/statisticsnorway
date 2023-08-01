@@ -5,24 +5,24 @@
 [submodule "CalibrateSSB"]
 	path = CalibrateSSB
 	url = https://github.com/statisticsnorway/calibratessb
-[submodule "easySdcTable"]
-	path = easySdcTable
-	url = https://github.com/statisticsnorway/easysdctable
-[submodule "GaussSuppression"]
-	path = GaussSuppression
-	url = https://github.com/statisticsnorway/gausssuppression
 [submodule "GISSB"]
 	path = GISSB
 	url = https://github.com/statisticsnorway/gissb
-[submodule "klassR"]
-	path = klassR
-	url = https://github.com/statisticsnorway/klassr
+[submodule "GaussSuppression"]
+	path = GaussSuppression
+	url = https://github.com/statisticsnorway/gausssuppression
 [submodule "PxWebApiData"]
 	path = PxWebApiData
 	url = https://github.com/statisticsnorway/pxwebapidata
-[submodule "SmallCountRounding"]
-	path = SmallCountRounding
-	url = https://github.com/statisticsnorway/smallcountrounding
 [submodule "SSBtools"]
 	path = SSBtools
 	url = https://github.com/statisticsnorway/ssbtools
+[submodule "SmallCountRounding"]
+	path = SmallCountRounding
+	url = https://github.com/statisticsnorway/smallcountrounding
+[submodule "easySdcTable"]
+	path = easySdcTable
+	url = https://github.com/statisticsnorway/easysdctable
+[submodule "klassR"]
+	path = klassR
+	url = https://github.com/statisticsnorway/klassr
