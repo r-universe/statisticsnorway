@@ -4,25 +4,25 @@
 	branch = HEAD
 [submodule "CalibrateSSB"]
 	path = CalibrateSSB
-	url = https://github.com/statisticsnorway/calibratessb
+	url = https://github.com/statisticsnorway/ssb-calibratessb
 [submodule "GISSB"]
 	path = GISSB
 	url = https://github.com/statisticsnorway/gissb
 [submodule "GaussSuppression"]
 	path = GaussSuppression
-	url = https://github.com/statisticsnorway/gausssuppression
+	url = https://github.com/statisticsnorway/ssb-gausssuppression
 [submodule "PxWebApiData"]
 	path = PxWebApiData
-	url = https://github.com/statisticsnorway/pxwebapidata
+	url = https://github.com/statisticsnorway/ssb-pxwebapidata
 [submodule "SSBtools"]
 	path = SSBtools
-	url = https://github.com/statisticsnorway/ssbtools
+	url = https://github.com/statisticsnorway/ssb-ssbtools
 [submodule "SmallCountRounding"]
 	path = SmallCountRounding
-	url = https://github.com/statisticsnorway/smallcountrounding
+	url = https://github.com/statisticsnorway/ssb-smallcountrounding
 [submodule "easySdcTable"]
 	path = easySdcTable
-	url = https://github.com/statisticsnorway/easysdctable
+	url = https://github.com/statisticsnorway/ssb-easysdctable
 [submodule "klassR"]
 	path = klassR
 	url = https://github.com/statisticsnorway/klassr
