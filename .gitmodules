@@ -25,4 +25,4 @@
 	url = https://github.com/statisticsnorway/ssb-easysdctable
 [submodule "klassR"]
 	path = klassR
-	url = https://github.com/statisticsnorway/klassr
+	url = https://github.com/statisticsnorway/ssb-klassr
