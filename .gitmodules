@@ -14,6 +14,10 @@
 [submodule "PxWebApiData"]
 	path = PxWebApiData
 	url = https://github.com/statisticsnorway/ssb-pxwebapidata
+[submodule "ReGenesees"]
+	path = ReGenesees
+	url = https://github.com/DiegoZardetto/ReGenesees
+	registered = false
 [submodule "SSBtools"]
 	path = SSBtools
 	url = https://github.com/statisticsnorway/ssb-ssbtools
